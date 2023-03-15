@@ -3,7 +3,7 @@ CC = gcc
 CXX = g++
 
 CFLAGS = -g -Wall 
-CXXFLAGS = $(CFLAGS) -fpermissive -std=c++17
+CXXFLAGS = $(CFLAGS) -fpermissive -std=c++20
 LDFLAGS = 
 LDSUFFIX = -lm -ldl
 
